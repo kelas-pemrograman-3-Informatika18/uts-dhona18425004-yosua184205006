@@ -1,4 +1,4 @@
-# Quasar App (tugasfarelquasar)
+# Quasar App (laundry)
 
 A Quasar Framework app
 
